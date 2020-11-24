@@ -1,6 +1,6 @@
 # github-actions-youtube-dl
 
-使用 GitHub Actions 下载 YouTube 视频。
+使用 GitHub Actions 下载 YouTube 视频。  
 
 ## 原理
 
@@ -16,7 +16,7 @@
 ## Roadmap
 
 - [x] 使用 GitHub Action 下载视频
-- [x] 从列表中下载多个视频
+- [x] 从列表中下载多个视频   
 - [x] 自定义配置
 - [ ] CDN 加速
 
